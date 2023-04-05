@@ -8,9 +8,9 @@
 - [Linked Queue][linked_queue]
 - Binary Tree
 
-[dymanic_arrays]:https://github.com/democracyKim/CS_Study/tree/main/Data_Structure/01_Dynamic_Arrays
-[linked_list]:https://github.com/democracyKim/CS_Study/tree/main/Data_Structure/02_Linked_List
-[stack]:https://github.com/democracyKim/CS_Study/tree/main/Data_Structure/03_Stack
-[linked_stack]: https://github.com/democracyKim/CS_Study/tree/main/Data_Structure/04_Doubly_Linked_Stack
-[queue]: https://github.com/democracyKim/CS_Study/tree/main/Data_Structure/04_Circular_Queue
-[linked_queue]: https://github.com/democracyKim/CS_Study/tree/main/Data_Structure/05_Linked_Queue
+[dymanic_arrays]:https://github.com/democracyKim/Data_Structure/tree/master/01_Dynamic_Arrays
+[linked_list]:https://github.com/democracyKim/Data_Structure/tree/master/02_Linked_List
+[stack]:https://github.com/democracyKim/Data_Structure/tree/master/03_Stack
+[linked_stack]: https://github.com/democracyKim/Data_Structure/tree/master/04_Doubly_Linked_Stack
+[queue]: https://github.com/democracyKim/Data_Structure/tree/master/05_Circular_Queue
+[linked_queue]: https://github.com/democracyKim/Data_Structure/tree/master/06_Linked_Queue
