@@ -3,8 +3,6 @@
 # include <stdlib.h>
 # include <stdio.h>
 # include <string.h>
-# include "linked_queue.h"
-# include "linked_stack.h"
 # include "structure.h"
 
 binarytree	*create_tree(void);

@@ -4,7 +4,7 @@ binarytree	*create_tree(void)
 {
 	binarytree	*tree;
 
-	tree = calloc(sizeof(binarytree));
+	tree = calloc(1, sizeof(binarytree));
 	if (!tree)
 		return (NULL);
 	return (tree);
