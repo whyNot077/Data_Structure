@@ -9,6 +9,7 @@ binarytree	*create_tree(void);
 int			insert_data_recursive(tree_node **node, char *data);
 int			insert_data_iterative(tree_node **node, char *data);
 int			remove_data_recursive(binarytree *tree, char *data);
+int			remove_node(tree_node **node, char *data);
 void		inorder(binarytree *tree);
 void		preorder(binarytree *tree);
 void		postorder(binarytree *tree);

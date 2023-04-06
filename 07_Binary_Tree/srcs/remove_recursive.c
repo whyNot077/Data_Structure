@@ -39,7 +39,7 @@ static void	remove_node_with_two_children(tree_node **node)
 	remove_node(&(*node)->right, min_node->data);
 }
 
-static int	remove_node(tree_node **node, char *data)
+int	remove_node(tree_node **node, char *data)
 {
 	int	cmp;
 
