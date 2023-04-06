@@ -7,6 +7,10 @@
 - [Circular Queue][queue]
 - [Linked Queue][linked_queue]
 - Binary Tree
+- Array Heap
+- Array Graph
+- Linked Graph
+- Hashing
 
 [dymanic_arrays]:https://github.com/democracyKim/Data_Structure/tree/master/01_Dynamic_Arrays
 [linked_list]:https://github.com/democracyKim/Data_Structure/tree/master/02_Linked_List
